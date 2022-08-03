@@ -1,0 +1,11 @@
+Model Information:
+* title:	KOKO Cooker Light
+* source:	https://sketchfab.com/3d-models/koko-cooker-light-1487ba653b304255adec1c92bf2c5c27
+* author:	nyawallow (https://sketchfab.com/nyawallow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KOKO Cooker Light" (https://sketchfab.com/3d-models/koko-cooker-light-1487ba653b304255adec1c92bf2c5c27) by nyawallow (https://sketchfab.com/nyawallow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

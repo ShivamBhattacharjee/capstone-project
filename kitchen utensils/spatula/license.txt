@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spatula
+* source:	https://sketchfab.com/3d-models/spatula-19e30338a2524d7ea38ea6f1226bd6f2
+* author:	Matthew (https://sketchfab.com/matthewwsu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spatula" (https://sketchfab.com/3d-models/spatula-19e30338a2524d7ea38ea6f1226bd6f2) by Matthew (https://sketchfab.com/matthewwsu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
